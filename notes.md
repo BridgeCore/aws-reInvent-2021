@@ -2,8 +2,10 @@
 
 ## Keynotes
 
-Add notes here...
-
+- [Keynote with Adam Selipsky](https://www.youtube.com/watch?v=WGA2P_oH5Xc)
+- [Keynote with Dr. Werner Vogels](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
+- [Database, Analytics, and Machine Learning Keynote with Swami Sivasubramanian](https://www.youtube.com/watch?v=ue9aumC7AAk)
+- [Keynote with Peter DeSantis](https://www.youtube.com/watch?v=9NEQbFLtDmg)
 ## Sessions
 
 ### _All Builders Welcome_
