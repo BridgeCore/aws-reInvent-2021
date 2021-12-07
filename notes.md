@@ -97,7 +97,6 @@ Additional Resources:
 
 **SVS302 - Build a serverless web app for a theme park**
 
-aws-serverless-workshop-innovator-island)
 - Mobile app that provides thousands of users with wait times, photo opportunities, notification alerts, and language translation.
 - Microservices approach
 - This workshop only required minor changes to configuration files, the frontend and backend were prebuilt
